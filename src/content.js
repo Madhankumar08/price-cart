@@ -44,3 +44,4 @@ const tier = [
   ];
   
   export default tier;
+  
