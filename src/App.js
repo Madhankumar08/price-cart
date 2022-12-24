@@ -1,5 +1,5 @@
 import "./styles.css";
-import Tier from "./components/Tier";
+import Tier from "./component/Tier"
 import data from "./content";
 
 export default function App() {
